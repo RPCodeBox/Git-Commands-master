@@ -1,8 +1,6 @@
 Git Commands
 ============
-
 _A list of my commonly used Git commands_
---
 
 ### Getting & Creating Projects
 
