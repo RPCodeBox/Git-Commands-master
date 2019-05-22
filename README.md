@@ -59,20 +59,21 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
-## Sample Commands for first check-in
-GitHub - Create a new repository
-Folder
-git init
-git remote add origin ssh://git@github.com/RPCodeBox/[repository-name].git
-git add .
-git status
-git commit -m"first"
-git push -u origin master
+### Sample Commands for first check-in
+#### GitHub - 
 
-## Example
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com/RPCodeBox/[repository-name].git
-git push -u origin master
+| Create a new repository | 
+#### Folder
+| git init |
+| git remote add origin ssh://git@github.com/RPCodeBox/[repository-name].git |
+| git add . |
+| git status |
+| git commit -m"first" |
+| git push -u origin master |
 
+### Example
+| git init |
+| git add README.md |
+| git commit -m "first commit" |
+| git remote add origin git@github.com/RPCodeBox/[repository-name].git |
+| git push -u origin master |
