@@ -64,6 +64,9 @@ _A list of my commonly used Git commands_
 
 | Create a new repository | 
 #### Folder
+
+| Command |
+| ------- |
 | git init |
 | git remote add origin ssh://git@github.com/RPCodeBox/[repository-name].git |
 | git add . |
@@ -72,6 +75,9 @@ _A list of my commonly used Git commands_
 | git push -u origin master |
 
 ### Example
+
+| Command |
+| ------- |
 | git init |
 | git add README.md |
 | git commit -m "first commit" |
